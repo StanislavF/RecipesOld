@@ -1,0 +1,52 @@
+.previewHolder {
+	width: 40%;
+	border: 1px solid;
+	float: left;
+	height: 300px;
+	margin-left:7%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.ingredient input {
+	margin: 1px;
+}
+
+#modalUpdate_description {
+	width: 100%;
+	height: 150px;
+	border: 1px solid black;
+	margin-bottom: 5px;
+	padding: 6px;
+}
+
+.modalUpdate_all_images_holder{
+	width: 40%;
+	height:50px;
+	border: 1px solid black;
+	display:flex;
+	margin-top:295px;
+	margin-left:7%;
+}
+
+.modalUpdate_small_image{
+	border:1px solid black;
+	width:20%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.images{
+	margin-top:-365px;
+	margin-left:55%;
+}
+
+.modalUpdate_image_input_line{
+	margin:15px 0;
+}
+
+#modalUpdateDelButton{
+	position:relative;
+	margin-left:-92%;
+	margin-top:5px;
+}

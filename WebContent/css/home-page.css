@@ -1,0 +1,10 @@
+#imageDiv {
+	border: 1px solid;
+	width: 70%;
+	height: 400px;
+	margin: 10% auto;
+	border-radius: 150px 150px 150px 150px;
+	background-image: url('../img/favorite-recipes.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}

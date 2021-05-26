@@ -1,0 +1,88 @@
+.body_container {
+	/* 	padding-top:5px;
+	width: 98.55%;
+	height: 200px;
+	background: aqua;
+	margin: auto;
+	padding: 10px; */
+	margin: 0;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.search_part {
+	width: 17%;
+	height: 700px;
+	float: left;
+	padding-top: 7px;
+	border: 1px ridge gray;
+}
+
+.search_part label {
+	padding-bottom: 5px;
+}
+
+.search_part p {
+	margin: 5px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+}
+
+.search_row {
+	margin: 10px;
+	margin-bottom: 15px;
+}
+
+.search_row input {
+	width: 97%;
+}
+
+.ingredient_lsit {
+	margin: 10px;
+	padding: 5px;
+	padding-bottom: 20px;
+	border: 1px solid gray;
+	overflow-y: auto;
+	max-height: 300px;
+}
+
+.ingredient {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.ingredient input {
+	width: 80%;
+}
+
+.ingredient button {
+	margin-left: 5px;
+}
+
+#add_button {
+	width: 35px;
+	height: 35px;
+	size: 14px;
+	display: block;
+	margin: 0 auto;
+}
+
+#search_button {
+	width: 75%;
+	height: 35px;
+	size: 14px;
+	display: block;
+	margin: 0 auto;
+}
+
+.result_part {
+	margin-left: 18%;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 7px;
+	height: 700px;
+	border: 1px ridge gray;
+}
+
+
+
